@@ -1,0 +1,48 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
+.heroDescription {
+  max-width: 640px;
+  margin: 0 auto 1.5rem;
+  opacity: 0.9;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+/* Only show a focus ring for keyboard navigation, not on mouse click */
+.buttons a:focus:not(:focus-visible) {
+  outline: none;
+  box-shadow: none;
+}
+
+.heroButton {
+  color: #ffffff;
+  border-color: #ffffff;
+  background-color: transparent;
+}
+
+.heroButton:hover {
+  color: #1f3864;
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
