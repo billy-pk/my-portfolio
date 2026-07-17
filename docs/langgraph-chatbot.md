@@ -8,7 +8,7 @@ title: LangGraph Chatbot — Search-Augmented Conversational AI
 
 **Stack:** Python, LangGraph, LangChain, GPT-4o mini, Tavily Search, Streamlit
 
-**GitHub:** [github.com/billy-pk/langchain-streamlit-chatbot](https://github.com/billy-pk/langchain-streamlit-chatbot)
+**GitHub:** [github.com/billy-pk/langgraph-streamlit-chatbot](https://github.com/billy-pk/langgraph-streamlit-chatbot)
 
 ## Problem
 
