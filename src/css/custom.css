@@ -55,3 +55,21 @@
 .footer--dark {
   --ifm-footer-link-hover-color: #97b8e6;
 }
+
+/* Navy left sidebar (docs project nav), matching the navbar */
+.theme-doc-sidebar-container {
+  --ifm-menu-color: #a9b7ce;
+  --ifm-menu-color-active: #e8edf5;
+  --ifm-menu-color-background-active: rgba(255, 255, 255, 0.12);
+  --ifm-menu-color-background-hover: rgba(255, 255, 255, 0.08);
+  background-color: #1f3864;
+  border-right: none;
+}
+
+.theme-doc-sidebar-container .menu__link--active:not(.menu__link--sublist) {
+  font-weight: 600;
+}
+
+.theme-doc-sidebar-container .menu__caret:before {
+  filter: invert(1) brightness(2);
+}
