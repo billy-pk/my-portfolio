@@ -1,5 +1,6 @@
 ---
 sidebar_position: 6
+hide_table_of_contents: true
 title: LangGraph Chatbot — Search-Augmented Conversational AI
 ---
 

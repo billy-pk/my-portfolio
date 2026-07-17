@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+hide_table_of_contents: true
 title: Clinic Assistant Agent — AI Receptionist for Healthcare Scheduling
 ---
 

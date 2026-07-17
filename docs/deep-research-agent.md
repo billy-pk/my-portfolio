@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+hide_table_of_contents: true
 title: DeepResearchAgent — Autonomous Multi-Agent Research System
 ---
 
