@@ -12,16 +12,16 @@ const ProjectList = [
     image: '/img/portfolio/ai-employee-dashboard.png',
   },
   {
-    title: 'Evolution of Todo',
-    slug: '/projects/evolution-of-todo',
-    description: 'A 5-phase progression from CLI to a conversational AI agent to an event-driven Kubernetes platform.',
-    image: '/img/portfolio/ai-todo-app-main-page.png',
-  },
-  {
     title: 'Clinic Assistant Agent',
     slug: '/projects/clinic-assistant-agent',
     description: '24/7 AI clinic receptionist for WhatsApp and web chat, with RAG-based Q&A and admin dashboard.',
     image: '/img/portfolio/clinic-admin-dashboard.png',
+  },
+  {
+    title: 'Evolution of Todo',
+    slug: '/projects/evolution-of-todo',
+    description: 'A 5-phase progression from CLI to a conversational AI agent to an event-driven Kubernetes platform.',
+    image: '/img/portfolio/ai-todo-app-main-page.png',
   },
   {
     title: 'VERA',
