@@ -40,6 +40,12 @@ const ProjectList = [
     slug: '/projects/langgraph-chatbot',
     description: 'Search-augmented conversational AI using LangGraph, GPT-4o mini, and Tavily search.',
   },
+  {
+    title: 'AI Sales Agent',
+    slug: '/projects/ai-sales-agent',
+    description: 'Multi-agent sales assistant that qualifies leads, prices quotes, and sends PDF proposals.',
+    image: '/img/portfolio/ai-sales-agent-demo.gif',
+  },
 ];
 
 function ProjectCard({title, slug, description, image}) {
