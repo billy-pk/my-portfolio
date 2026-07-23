@@ -1,5 +1,5 @@
 ---
-sidebar_position: 7
+sidebar_position: 3
 hide_table_of_contents: true
 title: AI Sales Agent — Multi-Agent Sales Assistant for Service Businesses
 ---

@@ -18,6 +18,12 @@ const ProjectList = [
     image: '/img/portfolio/clinic-admin-dashboard.png',
   },
   {
+    title: 'AI Sales Agent',
+    slug: '/projects/ai-sales-agent',
+    description: 'Multi-agent sales assistant that qualifies leads, prices quotes, and sends PDF proposals.',
+    image: '/img/portfolio/ai-sales-agent-demo.gif',
+  },
+  {
     title: 'Evolution of Todo',
     slug: '/projects/evolution-of-todo',
     description: 'A 5-phase progression from CLI to a conversational AI agent to an event-driven Kubernetes platform.',
@@ -39,12 +45,6 @@ const ProjectList = [
     title: 'LangGraph Chatbot',
     slug: '/projects/langgraph-chatbot',
     description: 'Search-augmented conversational AI using LangGraph, GPT-4o mini, and Tavily search.',
-  },
-  {
-    title: 'AI Sales Agent',
-    slug: '/projects/ai-sales-agent',
-    description: 'Multi-agent sales assistant that qualifies leads, prices quotes, and sends PDF proposals.',
-    image: '/img/portfolio/ai-sales-agent-demo.gif',
   },
 ];
 
