@@ -24,6 +24,12 @@ const ProjectList = [
     image: '/img/portfolio/ai-sales-agent-demo.gif',
   },
   {
+    title: 'WooAssist AI',
+    slug: '/projects/woocommerce-ai-support',
+    description: 'AI customer-support agent for WooCommerce stores — tool-calling agent, RAG policy Q&A, and guarded order lookups.',
+    image: '/img/portfolio/woocommerce-ai-support-demo.gif',
+  },
+  {
     title: 'Evolution of Todo',
     slug: '/projects/evolution-of-todo',
     description: 'A 5-phase progression from CLI to a conversational AI agent to an event-driven Kubernetes platform.',
@@ -45,12 +51,6 @@ const ProjectList = [
     title: 'LangGraph Chatbot',
     slug: '/projects/langgraph-chatbot',
     description: 'Search-augmented conversational AI using LangGraph, GPT-4o mini, and Tavily search.',
-  },
-  {
-    title: 'WooAssist AI',
-    slug: '/projects/woocommerce-ai-support',
-    description: 'AI customer-support agent for WooCommerce stores — tool-calling agent, RAG policy Q&A, and guarded order lookups.',
-    image: '/img/portfolio/woocommerce-ai-support-demo.png',
   },
 ];
 

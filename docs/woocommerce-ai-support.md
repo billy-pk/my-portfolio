@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+sidebar_position: 4
 hide_table_of_contents: true
 title: WooAssist AI — AI Customer-Support Agent for WooCommerce
 ---
@@ -42,5 +42,5 @@ Order lookups are gated on server-side verification of order number *and* billin
 
 ## Demo
 
-![WooAssist AI chat widget answering a product question against a live WooCommerce store](/img/portfolio/woocommerce-ai-support-demo.png)
+![WooAssist AI chat widget answering a product question against a live WooCommerce store](/img/portfolio/woocommerce-ai-support-demo.gif)
 *The widget answering a live product query — prices and stock pulled straight from a running WooCommerce store, not invented by the model.*
