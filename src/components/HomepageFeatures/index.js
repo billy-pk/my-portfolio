@@ -46,6 +46,12 @@ const ProjectList = [
     slug: '/projects/langgraph-chatbot',
     description: 'Search-augmented conversational AI using LangGraph, GPT-4o mini, and Tavily search.',
   },
+  {
+    title: 'WooAssist AI',
+    slug: '/projects/woocommerce-ai-support',
+    description: 'AI customer-support agent for WooCommerce stores — tool-calling agent, RAG policy Q&A, and guarded order lookups.',
+    image: '/img/portfolio/woocommerce-ai-support-demo.png',
+  },
 ];
 
 function ProjectCard({title, slug, description, image}) {
